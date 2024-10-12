@@ -1,2 +1,4 @@
-# AItils
-Artificial Intelligence Utility Library for Python
+# Puddy
+A simple AI buddy in python.
+
+Puddy is your personal buddy, 
